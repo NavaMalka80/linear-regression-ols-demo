@@ -1,0 +1,3 @@
+True beta0: 0.5, True beta1: 2.0
+Calculated beta0_hat: 0.500, beta1_hat: 2.000
+Calculated MSE: 1.001
